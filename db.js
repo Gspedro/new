@@ -1,5 +1,5 @@
 
-//Creating DB connection
+//Creating DB connection.
 
 
 const MongoClient = require ("mongodb").MongoClient;
